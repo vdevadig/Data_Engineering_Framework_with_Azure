@@ -1,0 +1,10 @@
+[
+    {
+    "gitrelative_url":"Data_Engineering_Framework_with_Azure/refs/heads/main/Drugs_product.csv",
+    "hc_file":"Drugs_product.csv"
+    },
+    {
+    "gitrelative_url":"Data_Engineering_Framework_with_Azure/refs/heads/main/Nhanes_2013_2014.csv",
+    "hc_file":"Nhanes_2013_2014.csv"
+    }
+]
